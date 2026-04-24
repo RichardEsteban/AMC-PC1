@@ -91,7 +91,6 @@ export function UploadModal({ isOpen, onClose, onSubmit, initialData, isAnnex }:
               >
                 <option value="Físico/Financiero">Físico/Financiero</option>
                 <option value="Técnico">Técnico</option>
-                <option value="De Cierre">De Cierre</option>
               </select>
             </div>
           )}
